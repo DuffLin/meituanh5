@@ -1,0 +1,2 @@
+npx degit dcloudio/uni-preset-vue#vite-ts 项目名称
+H编辑器： manifest.json文件编辑appid
